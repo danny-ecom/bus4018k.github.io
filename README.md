@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <title>產品目錄頁面</title>
-</head>
+
 <body>
     <!-- 產品目錄超連結列表 -->
     <a href="https://github.com/danny-ecom/bus4018k.github.io/blob/main/page1.md">產品目錄第一頁</a><br>
