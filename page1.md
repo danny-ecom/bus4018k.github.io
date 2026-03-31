@@ -15,7 +15,7 @@
         </thead>
         <tbody>
             <!-- 以下数据已去除多余引号，共222行 (含之前3条) 直接粘贴生成 -->
-        <tr>
+"<tr>
     <td>8000222300317</td>
     <td>購物袋（大）</td>
     <td>日用百货</td>
@@ -83,112 +83,112 @@
 </tr> <tr>
     <td>6917878131504</td>
     <td>雀巢Nestle脆脆鯊威化朱古力味18.6g</td>
-    <td>糖巧饼干</td>
+    <td></td>
     <td>威化饼干</td>
 </tr> <tr>
     <td>6923830301304</td>
     <td>鴻福堂Hung Fook Tong凍檸茶500ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>茶饮料</td>
 </tr> <tr>
     <td>6928804011203</td>
     <td>可口可樂Coca-Cola樽裝1.25L</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>碳酸饮料</td>
 </tr> <tr>
     <td>6971196385162</td>
     <td>奈雪的茶青提香烏龍450ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>茶饮料</td>
 </tr> <tr>
     <td>6924187839212</td>
     <td>洽洽喀吱脆薯片鐵板燒烤味35g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>薯片薯条</td>
 </tr> <tr>
     <td>6924160714949</td>
     <td>無窮香滷雞蛋30g</td>
-    <td>方便速食</td>
+    <td></td>
     <td>蛋制品</td>
 </tr> <tr>
     <td>8859015700168</td>
     <td>if椰子水350ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>果蔬汁</td>
 </tr> <tr>
     <td>6938849401631</td>
     <td>雙匯鮮雞蛋乾(香辣味)30g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>肉类小食</td>
 </tr> <tr>
     <td>6937439920057</td>
     <td>脆升升杯裝薯條(蜂蜜黃油味)50g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>薯片薯条</td>
 </tr> <tr>
     <td>8858223005898</td>
     <td>VFOODSmix香辣雞味脆脆條75g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>其他膨化</td>
 </tr> <tr>
     <td>8858702431712</td>
     <td>小老板BigRoll香脆海苔燒烤風味3g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>水产小食</td>
 </tr> <tr>
     <td>6924743927933</td>
     <td>樂事Lays無限鮮濃番茄味90g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>薯片薯条</td>
 </tr> <tr>
     <td>6975682480492</td>
     <td>水動樂蜂蜜檸檬味600ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>功能饮料</td>
 </tr> <tr>
     <td>6928804011173</td>
     <td>可口可樂Coca-Cola樽裝500ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>碳酸饮料</td>
 </tr> <tr>
     <td>8993175540643</td>
     <td>納寶帝麗芝士巧克力味威化餅乾145g</td>
-    <td>糖巧饼干</td>
+    <td></td>
     <td>威化饼干</td>
 </tr> <tr>
     <td>6920202888883</td>
     <td>紅牛RedBull維生素功能飲品250ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>功能饮料</td>
 </tr> <tr>
     <td>6928804010114</td>
     <td>可口可樂Coca-Cola Zero樽裝500ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>碳酸饮料</td>
 </tr> <tr>
     <td>6928804016567</td>
     <td>雪碧Sprite Plus Zero樽裝500ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>碳酸饮料</td>
 </tr> <tr>
     <td>6925303770556</td>
     <td>統一湯達人杯麵酸酸辣辣豚骨麵90g</td>
-    <td>方便速食</td>
+    <td></td>
     <td>方便面</td>
 </tr> <tr>
     <td>4897036692202</td>
     <td>魔爪Monster超越原味能量飲品330ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>功能饮料</td>
 </tr> <tr>
     <td>6926265302380</td>
     <td>上好佳鮮蝦片60g</td>
-    <td>休闲零食</td>
+    <td></td>
     <td>虾片虾条</td>
 </tr> <tr>
     <td>6971196385070</td>
     <td>奈雪的茶蜜桃烏龍茶450ml</td>
-    <td>酒水饮料</td>
+    <td></td>
     <td>茶饮料</td>
 </tr> <tr>
     <td>6956511986873</td>
@@ -515,7 +515,7 @@
     <td>得寶Tempo無香紙巾1包*7張</td>
     <td>纸品洗涤</td>
     <td>手帕纸</td>
-</tr>
+</tr>"
 
 </body>
 
